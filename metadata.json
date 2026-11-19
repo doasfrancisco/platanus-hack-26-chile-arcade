@@ -1,5 +1,5 @@
 {
-  "game_name": "Platanus Hack: Santiago Brick Breaker",
-  "description": "Batalla campal por romper la mayor cantidad de ladrillos",
-  "player_mode": "two_player"
+  "game_name": "VUELO AUSTRAL",
+  "description": "Vuela un jet platano sobre las islas del sur de Chile: cruza aros a la altura correcta para ganar tiempo, junta platanos, encadena combos y vuela rasante sin chocar. Palanca: virar, subir y bajar. B1 turbo, B2 tonel, B3 cambia la camara. / Fly a banana jet over the islands of southern Chile: pass gates at the right altitude to gain time, collect bananas, chain combos and fly low without crashing. Stick: turn, climb, dive. B1 boost, B2 barrel roll, B3 camera view.",
+  "player_mode": "single_player"
 }
